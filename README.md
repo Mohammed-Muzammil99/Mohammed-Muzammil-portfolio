@@ -17,7 +17,7 @@ I am an AI enthusiast with experience in **Machine Learning, Deep Learning, and 
 
 **Technologies:** Python, TensorFlow/Keras, FastText, BiLSTM, Pandas, NumPy  
 **Colab Notebook:** [View Notebook](https://colab.research.google.com/drive/1umf6Zzkh-iYtFKYbi8TW66bMN9mHGUbl?usp=sharing)
-### 2️⃣–4️⃣ Small ML & Algorithm Projects### 2️⃣–4️⃣ Small ML & Algorithm Projects
+### 2️⃣–4️⃣ Small ML & Algorithm Projects### 
 **Projects Included:**  
 - **Iris Flower Classification (KNN):** Classification of Iris flowers using K-Nearest Neighbors.  
 - **Diabetes Dataset Regression:** Predict diabetes progression using regression; evaluated with MSE and R² score.  
